@@ -1,0 +1,5 @@
+requests
+setuptools
+selenium
+webdriver_manager
+beautifulsoup4
